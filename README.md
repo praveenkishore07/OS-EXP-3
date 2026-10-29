@@ -207,10 +207,5 @@ void client() {
 <img width="712" height="91" alt="2" src="https://github.com/user-attachments/assets/bb53a06e-c81d-436c-9eaf-819f9b5a38a5" />
 
 
-
-
-## OUTPUT
-
-
 # RESULT:
 The program is executed successfully.
